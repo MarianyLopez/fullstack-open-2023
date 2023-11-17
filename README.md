@@ -1,1 +1,6 @@
 # fullstack-open-2023
+
+# Part 0
+## Ejercicio 0.4.Diagrama para crear nueva nota
+
+![](https://www.planttext.com/api/plantuml/png/pLJBIiD05DttAovTDqbJtrcKRiGYsWej28h8EBbfnYOpOUQcBOZWr_XXVedN9BgeY0GLdDNSCtVEEPnvZ1m9IsMUTJh0e-12ILK8JN1dpTgX_OGpjcAumfiURpYiqGWkfhCvf4I5YuB0KHahTBvqVegPKtgf_4G5k15vaQ4eYa3Z-bORmefDI58hGVWkyORLKuyL6gq8nlFpCuYDB7FKL3N5kBtr2tSdnwtCiJ7tBvtbGcbURcMEKWJU0edAyC-ztRUsTYfMOYQjAkXRXnC-5x1gaHAO13vOvipI551TQmUuGLcIqejj2MbYP4om699CqTKDi-a44cloglhDK691WaCnkaqirm_IQEAh545tZ5bcrd1fRDpj0TCXWuF-OCSBGo_SduUxqLu_2W_zmS7HLVUnz_Bq33S_3B5Ehyb6YYox4t89IQcPp-WwFeiwHbktrE-bCsA8VvHN)
