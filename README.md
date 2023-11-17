@@ -1,4 +1,4 @@
-# fullstack-open-2023
+# Fullstack Open 2023
 
 # Part 0
 ## Ejercicio 0.4.Diagrama para crear nueva nota
